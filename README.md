@@ -24,3 +24,9 @@ Program simulasi perbankan berbasis CLI (Command Line Interface) yang dibuat men
 ├── Bank.java       # Model class (Encapsulation, Constructor, Getter & Methods)
 ├── BankDemo.java   # Main class (Menu loop, ArrayList, CLI Interaction)
 └── README.md       # Dokumentasi proyek
+
+## 💻 Output Program
+
+Berikut adalah tampilan hasil saat program dijalankan:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1e0c6e6c-64e7-4713-9e35-67d6d8202970" />
